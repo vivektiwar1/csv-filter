@@ -14543,3 +14543,108 @@ DEBUG - 2021-01-13 14:53:38 --> Global POST, GET and COOKIE data sanitized
 INFO - 2021-01-13 14:53:38 --> Input Class Initialized
 INFO - 2021-01-13 14:53:38 --> Language Class Initialized
 ERROR - 2021-01-13 14:53:38 --> 404 Page Not Found: 1jpg/index
+ERROR - 2021-01-13 15:26:43 --> $config['composer_autoload'] is set to TRUE but /Applications/MAMP/htdocs/apps/csvtocsvfilter/application/vendor/autoload.php was not found.
+INFO - 2021-01-13 15:26:43 --> Config Class Initialized
+INFO - 2021-01-13 15:26:43 --> Hooks Class Initialized
+DEBUG - 2021-01-13 15:26:43 --> UTF-8 Support Enabled
+INFO - 2021-01-13 15:26:43 --> Utf8 Class Initialized
+INFO - 2021-01-13 15:26:43 --> URI Class Initialized
+DEBUG - 2021-01-13 15:26:43 --> No URI present. Default controller set.
+INFO - 2021-01-13 15:26:43 --> Router Class Initialized
+INFO - 2021-01-13 15:26:43 --> Output Class Initialized
+INFO - 2021-01-13 15:26:43 --> Security Class Initialized
+DEBUG - 2021-01-13 15:26:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-13 15:26:43 --> Input Class Initialized
+INFO - 2021-01-13 15:26:43 --> Language Class Initialized
+INFO - 2021-01-13 15:26:43 --> Loader Class Initialized
+INFO - 2021-01-13 15:26:43 --> Helper loaded: url_helper
+INFO - 2021-01-13 15:26:43 --> Helper loaded: form_helper
+INFO - 2021-01-13 15:26:43 --> Helper loaded: html_helper
+INFO - 2021-01-13 15:26:43 --> Helper loaded: file_helper
+INFO - 2021-01-13 15:26:43 --> Form Validation Class Initialized
+DEBUG - 2021-01-13 15:26:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-13 15:26:43 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-13 15:26:43 --> Model "Welcome_model" initialized
+INFO - 2021-01-13 15:26:43 --> Controller Class Initialized
+INFO - 2021-01-13 15:26:43 --> File loaded: /Applications/MAMP/htdocs/apps/csvtocsvfilter/application/views/exportCSV.php
+INFO - 2021-01-13 15:26:43 --> Final output sent to browser
+DEBUG - 2021-01-13 15:26:43 --> Total execution time: 0.0888
+ERROR - 2021-01-13 15:26:43 --> $config['composer_autoload'] is set to TRUE but /Applications/MAMP/htdocs/apps/csvtocsvfilter/application/vendor/autoload.php was not found.
+INFO - 2021-01-13 15:26:43 --> Config Class Initialized
+INFO - 2021-01-13 15:26:43 --> Hooks Class Initialized
+DEBUG - 2021-01-13 15:26:43 --> UTF-8 Support Enabled
+INFO - 2021-01-13 15:26:43 --> Utf8 Class Initialized
+INFO - 2021-01-13 15:26:43 --> URI Class Initialized
+INFO - 2021-01-13 15:26:43 --> Router Class Initialized
+INFO - 2021-01-13 15:26:43 --> Output Class Initialized
+INFO - 2021-01-13 15:26:43 --> Security Class Initialized
+DEBUG - 2021-01-13 15:26:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-13 15:26:43 --> Input Class Initialized
+INFO - 2021-01-13 15:26:43 --> Language Class Initialized
+ERROR - 2021-01-13 15:26:43 --> 404 Page Not Found: 1jpg/index
+ERROR - 2021-01-13 15:27:51 --> $config['composer_autoload'] is set to TRUE but /Applications/MAMP/htdocs/apps/csvtocsvfilter/application/vendor/autoload.php was not found.
+INFO - 2021-01-13 15:27:51 --> Config Class Initialized
+INFO - 2021-01-13 15:27:51 --> Hooks Class Initialized
+DEBUG - 2021-01-13 15:27:51 --> UTF-8 Support Enabled
+INFO - 2021-01-13 15:27:51 --> Utf8 Class Initialized
+INFO - 2021-01-13 15:27:51 --> URI Class Initialized
+INFO - 2021-01-13 15:27:51 --> Router Class Initialized
+INFO - 2021-01-13 15:27:51 --> Output Class Initialized
+INFO - 2021-01-13 15:27:51 --> Security Class Initialized
+DEBUG - 2021-01-13 15:27:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-13 15:27:51 --> Input Class Initialized
+INFO - 2021-01-13 15:27:51 --> Language Class Initialized
+INFO - 2021-01-13 15:27:51 --> Loader Class Initialized
+INFO - 2021-01-13 15:27:51 --> Helper loaded: url_helper
+INFO - 2021-01-13 15:27:51 --> Helper loaded: form_helper
+INFO - 2021-01-13 15:27:51 --> Helper loaded: html_helper
+INFO - 2021-01-13 15:27:51 --> Helper loaded: file_helper
+INFO - 2021-01-13 15:27:51 --> Form Validation Class Initialized
+DEBUG - 2021-01-13 15:27:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-13 15:27:51 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-13 15:27:51 --> Model "Welcome_model" initialized
+INFO - 2021-01-13 15:27:51 --> Controller Class Initialized
+ERROR - 2021-01-13 15:29:05 --> $config['composer_autoload'] is set to TRUE but /Applications/MAMP/htdocs/apps/csvtocsvfilter/application/vendor/autoload.php was not found.
+INFO - 2021-01-13 15:29:05 --> Config Class Initialized
+INFO - 2021-01-13 15:29:05 --> Hooks Class Initialized
+DEBUG - 2021-01-13 15:29:05 --> UTF-8 Support Enabled
+INFO - 2021-01-13 15:29:05 --> Utf8 Class Initialized
+INFO - 2021-01-13 15:29:05 --> URI Class Initialized
+INFO - 2021-01-13 15:29:05 --> Router Class Initialized
+INFO - 2021-01-13 15:29:05 --> Output Class Initialized
+INFO - 2021-01-13 15:29:05 --> Security Class Initialized
+DEBUG - 2021-01-13 15:29:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-13 15:29:05 --> Input Class Initialized
+INFO - 2021-01-13 15:29:05 --> Language Class Initialized
+INFO - 2021-01-13 15:29:05 --> Loader Class Initialized
+INFO - 2021-01-13 15:29:05 --> Helper loaded: url_helper
+INFO - 2021-01-13 15:29:05 --> Helper loaded: form_helper
+INFO - 2021-01-13 15:29:05 --> Helper loaded: html_helper
+INFO - 2021-01-13 15:29:05 --> Helper loaded: file_helper
+INFO - 2021-01-13 15:29:05 --> Form Validation Class Initialized
+DEBUG - 2021-01-13 15:29:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-13 15:29:05 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-13 15:29:06 --> Model "Welcome_model" initialized
+INFO - 2021-01-13 15:29:06 --> Controller Class Initialized
+ERROR - 2021-01-13 15:29:23 --> $config['composer_autoload'] is set to TRUE but /Applications/MAMP/htdocs/apps/csvtocsvfilter/application/vendor/autoload.php was not found.
+INFO - 2021-01-13 15:29:23 --> Config Class Initialized
+INFO - 2021-01-13 15:29:23 --> Hooks Class Initialized
+DEBUG - 2021-01-13 15:29:23 --> UTF-8 Support Enabled
+INFO - 2021-01-13 15:29:23 --> Utf8 Class Initialized
+INFO - 2021-01-13 15:29:23 --> URI Class Initialized
+INFO - 2021-01-13 15:29:23 --> Router Class Initialized
+INFO - 2021-01-13 15:29:23 --> Output Class Initialized
+INFO - 2021-01-13 15:29:23 --> Security Class Initialized
+DEBUG - 2021-01-13 15:29:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-01-13 15:29:23 --> Input Class Initialized
+INFO - 2021-01-13 15:29:23 --> Language Class Initialized
+INFO - 2021-01-13 15:29:23 --> Loader Class Initialized
+INFO - 2021-01-13 15:29:23 --> Helper loaded: url_helper
+INFO - 2021-01-13 15:29:23 --> Helper loaded: form_helper
+INFO - 2021-01-13 15:29:23 --> Helper loaded: html_helper
+INFO - 2021-01-13 15:29:23 --> Helper loaded: file_helper
+INFO - 2021-01-13 15:29:23 --> Form Validation Class Initialized
+DEBUG - 2021-01-13 15:29:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-01-13 15:29:23 --> Session: Class initialized using 'files' driver.
+INFO - 2021-01-13 15:29:23 --> Model "Welcome_model" initialized
+INFO - 2021-01-13 15:29:23 --> Controller Class Initialized
